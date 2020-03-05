@@ -29,6 +29,7 @@ This will prompt each team member with questions regarding their progress. The a
 
 <img src="assets/record.gif" width="400" height="400" />
 
+
 ## Local Development/Running from Source
 **1. 👯 Clone the repo:**
 
