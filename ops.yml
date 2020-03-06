@@ -7,4 +7,4 @@ ops:
     sourceCodeURL: "https://github.com/cto-ai/nerdbot"
     run: python3 /ops/nerdbot/main.py
     help:
-      usage: 'ops run nerdbot'
+      usage: 'ops run cto.ai/nerdbot'
