@@ -1,0 +1,10 @@
+version: "1"
+ops:
+  - name: nerdbot:0.2.2
+    description: Manage your team's daily standups using the CTO.ai Ops Platform!
+    sdk: "2"
+    public: true
+    sourceCodeURL: "https://github.com/cto-ai/nerdbot"
+    run: python3 /ops/nerdbot/main.py
+    help:
+      usage: 'ops run cto.ai/nerdbot'
